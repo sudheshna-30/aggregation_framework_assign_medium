@@ -142,6 +142,8 @@ averagePrice: -1
   _id: 'casual',
   averagePrice: 20
 }
+
+
 3. db.products.aggregate([
   {
 $match:{
